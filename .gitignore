@@ -1,0 +1,25 @@
+# Credentials — never commit
+kaggle.json
+*.token
+.env
+.env.*
+
+# Competition-provided SDK — NOT redistributed (obtain from competition data)
+aicomp_sdk/
+kaggle_evaluation/
+input/
+extracted/
+
+# Kernel build artifacts (base64-embedded notebooks)
+kernel_*/
+*.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
