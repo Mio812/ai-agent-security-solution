@@ -59,6 +59,8 @@ I deliberately did **not** select the 90-point exfiltration. It only survives if
 | `ut_web` UNTRUSTED_TO_ACTION — **selected** | 17.265 | 17.265 |
 | EXFILTRATION — *not selected* | 90.720 | **0.000** |
 
+**Final: 25.725 private → 🥈 Silver Medal, 53 / 4187 teams (top ~1.3%).**
+
 ## Takeaways
 
 1. **Read the guardrail source.** The public guard's behavior is ground truth; the private guard usually plugs its obvious hole.

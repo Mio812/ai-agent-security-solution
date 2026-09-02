@@ -1,6 +1,6 @@
 # AI Agent Security – Multi-Step Tool Attacks｜解决方案与思路
 
-> 最终私榜 **25.725**（pick1 CD）｜押 EXFIL 的人全部 **0 分**。
+> 🥈 **银牌 · 私榜第 53 / 4187 名（前 ~1.3%）**｜最终私榜 **25.725**（pick1 CD）｜押 EXFIL 的人全部 **0 分**。
 > 一句话:**公榜是幻觉,私榜定生死;读 guardrail 源码而非讨论区;用 CONFUSED_DEPUTY 拿"能转移到私榜"的分,再用 forge 冲破饱和。**
 
 ---

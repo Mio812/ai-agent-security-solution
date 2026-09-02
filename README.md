@@ -1,7 +1,6 @@
 # AI Agent Security: Multi-Step Tool Attacks — Silver Medal Solution
 
-> 🥈 **Silver Medal · 53 / 4252 teams (top ~1.25%)** — OpenAI × Google × IEEE red-team competition ($50K)
-> *(placement preliminary until Kaggle finalizes results)*
+> 🥈 **Silver Medal · 53 / 4187 teams (top ~1.3%)** — OpenAI × Google × IEEE red-team competition ($50K)
 
 **TL;DR** — The public leaderboard was a mirage. The winning move was to **read the guardrail source code** and realize that the `SECRET_MARKER` exfiltration attack behind nearly every top public score scores **exactly 0** on the held-out private guardrail. So we shipped a *transferable* attack class (**CONFUSED_DEPUTY**), then broke its score ceiling with a **prompt-forging** trick. Final private **25.7**, while public-optimized exfiltration submissions (public 90+) collapsed to **0**.
 
@@ -60,7 +59,7 @@ We validated this with a local **6-guardrail spectrum test** (`research/overfit_
 | EXFILTRATION *(not selected)* | 90.720 | **0.000** | 💀 the mirage |
 | EXFILTRATION burst *(not selected)* | 89.595 | **0.000** | 💀 collapsed |
 
-**Final private = 25.725** → **53 / 4252 (top ~1.25%).** Everyone who selected the 90-point exfiltration scored 0.
+**Final private = 25.725** → **🥈 Silver Medal, 53 / 4187 teams (top ~1.3%).** Everyone who selected the 90-point exfiltration scored 0.
 
 ## 5. Repository structure
 
