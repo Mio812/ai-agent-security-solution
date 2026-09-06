@@ -1,4 +1,4 @@
-# The Public Leaderboard Is a Mirage: Guardrail-Source Analysis as Attack and Defense
+# The Public Leaderboard Is a Mirage: A 🥈 Silver-Medal (53/4187) Guardrail-Source Analysis
 
 **Working Note — AI Agent Security: Multi-Step Tool Attacks (OpenAI × Google × IEEE).**
 Final: private **25.725**, 🥈 Silver, **53 / 4187** teams — while the exfiltration recipe behind nearly every top *public* score scored **0** on the private board.
