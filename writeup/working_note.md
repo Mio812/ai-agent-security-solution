@@ -72,7 +72,7 @@ Because the public guardrail is permissive and the private one is strict, the tw
 
 ## 6. Reproducibility
 
-All analysis runs against the local SDK; latency/firing claims come from GPU probes using the provided model servers. The 6-guardrail spectrum test (`overfit_spectrum.py`), the forge-discovery probe (`build_probe9.py`), and the two selected attacks are released with this note.
+All analysis runs against the local SDK; latency/firing claims come from GPU probes using the provided model servers. The 6-guardrail spectrum test (`overfit_spectrum.py`), the forge-discovery probe (`build_probe9.py`), and the two selected attacks are released with this note: **https://github.com/Mio812/ai-agent-security-solution**
 
 | Submission | Public | Private | |
 |---|---|---|---|
